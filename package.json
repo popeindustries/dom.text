@@ -1,0 +1,13 @@
+{
+	"name": "dom.text",
+	"description": "Cross-browser get/set element text",
+	"version": "0.0.1",
+	"author": "popeindustries <alex@pope-industries.com>",
+	"dependencies": {
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/popeindustries/dom.text.git"
+	}
+}
